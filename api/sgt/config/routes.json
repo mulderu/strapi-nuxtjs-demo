@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/sgt",
+      "handler": "sgt.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/sgt",
+      "handler": "sgt.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/sgt",
+      "handler": "sgt.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_abc_cpns",
+  "info": {
+    "name": "cpn",
+    "icon": "air-freshener"
+  },
+  "options": {},
+  "attributes": {
+    "aaaa": {
+      "type": "string"
+    }
+  }
+}
